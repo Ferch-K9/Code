@@ -40,6 +40,6 @@ I modified the task.json file and ran it
 
 <img width="610" height="194" alt="task" src="https://github.com/user-attachments/assets/b2fbca72-f321-4e22-a135-441d99263b05" />
 
-<img width="803" height="75" alt="rootflagcode" src="https://github.com/user-attachments/assets/4ac8c299-2cee-4eff-bc1e-59b0962e009f" />
-
 Unzip the folder and go into the root and the `root.txt` flag is there
+
+<img width="803" height="75" alt="rootflagcode" src="https://github.com/user-attachments/assets/4ac8c299-2cee-4eff-bc1e-59b0962e009f" />
