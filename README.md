@@ -24,7 +24,7 @@ After that got my shell as app-prodution. Looking for files to write to I find a
 
 <img width="469" height="156" alt="sqlicode" src="https://github.com/user-attachments/assets/e29e2a98-e7c3-46bf-9bb5-5260357dd3df" />
 
-I used Crackstation to then find martians password and logged in via ssh 
+I used Crackstation to then find martins password and logged in via ssh 
 
 # Root Flag
 
